@@ -6,9 +6,11 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="index.php">CMS Admin</a>
-            </div>
+                    </button>
+    <a class="navbar-brand" href="index.php">
+        <img src="images/fmplogo.png" alt="FMP Admin Logo" style="height: 52px;"> <!-- Adjust the path and style as needed -->
+    </a>
+</div>
             <!-- Top Menu Items -->
             <ul class="nav navbar-right top-nav">
 
@@ -16,7 +18,7 @@
 
                 <li><a href="">Users Online: <span class="usersonline"></span></a></li>
 
-               <li><a href="../index.php">HOME SITE</a></li>
+               <li><a href="../index.php">HOME </a></li>
                
                
                
